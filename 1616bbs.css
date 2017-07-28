@@ -12,7 +12,7 @@ body {
   background-color: #000;
   font-family: "Roboto","Meiryo",sans-serif;
 }
-
+/*
 a:link {
   color: #6495ed !important;
 }
@@ -32,6 +32,7 @@ a:hover {
 a {
   text-decoration: none !important;
 }
+*/
 
 .hr {
   width: 750px;
